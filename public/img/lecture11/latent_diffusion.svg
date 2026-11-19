@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="681.12pt" height="252.684pt" viewBox="0 0 681.12 252.684" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 252.684 
+L 681.12 252.684 
+L 681.12 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 19.71 160.5069 
+L 114.57 160.5069 
+Q 120.15 160.5069 120.15 156.4875 
+L 120.15 90.1674 
+Q 120.15 86.148 114.57 86.148 
+L 19.71 86.148 
+Q 14.13 86.148 14.13 90.1674 
+L 14.13 156.4875 
+Q 14.13 160.5069 19.71 160.5069 
+z
+" clip-path="url(#p591e729e01)" style="fill: #2a78d6"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 159.21 160.5069 
+L 254.07 160.5069 
+Q 259.65 160.5069 259.65 156.4875 
+L 259.65 90.1674 
+Q 259.65 86.148 254.07 86.148 
+L 159.21 86.148 
+Q 153.63 86.148 153.63 90.1674 
+L 153.63 156.4875 
+Q 153.63 160.5069 159.21 160.5069 
+z
+" clip-path="url(#p591e729e01)" style="fill: #8e6bbf"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 298.71 160.5069 
+L 393.57 160.5069 
+Q 399.15 160.5069 399.15 156.4875 
+L 399.15 90.1674 
+Q 399.15 86.148 393.57 86.148 
+L 298.71 86.148 
+Q 293.13 86.148 293.13 90.1674 
+L 293.13 156.4875 
+Q 293.13 160.5069 298.71 160.5069 
+z
+" clip-path="url(#p591e729e01)" style="fill: #ed7d31"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 438.21 160.5069 
+L 533.07 160.5069 
+Q 538.65 160.5069 538.65 156.4875 
+L 538.65 90.1674 
+Q 538.65 86.148 533.07 86.148 
+L 438.21 86.148 
+Q 432.63 86.148 432.63 90.1674 
+L 432.63 156.4875 
+Q 432.63 160.5069 438.21 160.5069 
+z
+" clip-path="url(#p591e729e01)" style="fill: #8e6bbf"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 563.76 160.5069 
+L 658.62 160.5069 
+Q 664.2 160.5069 664.2 156.4875 
+L 664.2 90.1674 
+Q 664.2 86.148 658.62 86.148 
+L 563.76 86.148 
+Q 558.18 86.148 558.18 90.1674 
+L 558.18 156.4875 
+Q 558.18 160.5069 563.76 160.5069 
+z
+" clip-path="url(#p591e729e01)" style="fill: #4c9a2a"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 116.572588 123.12648 
+Q 136.890678 123.12648 155.196308 123.12648 
+" clip-path="url(#p591e729e01)" style="fill: none; stroke: #777777; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 147.996308 119.52648 
+L 155.196308 123.12648 
+L 147.996308 126.72648 
+z
+" clip-path="url(#p591e729e01)" style="fill: #777777; stroke: #777777; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 256.072588 123.12648 
+Q 276.390678 123.12648 294.696308 123.12648 
+" clip-path="url(#p591e729e01)" style="fill: none; stroke: #777777; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 287.496308 119.52648 
+L 294.696308 123.12648 
+L 287.496308 126.72648 
+z
+" clip-path="url(#p591e729e01)" style="fill: #777777; stroke: #777777; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 395.572588 123.12648 
+Q 415.890678 123.12648 434.196308 123.12648 
+" clip-path="url(#p591e729e01)" style="fill: none; stroke: #777777; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 426.996308 119.52648 
+L 434.196308 123.12648 
+L 426.996308 126.72648 
+z
+" clip-path="url(#p591e729e01)" style="fill: #777777; stroke: #777777; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 535.066798 123.12648 
+Q 548.41341 123.12648 559.747561 123.12648 
+" clip-path="url(#p591e729e01)" style="fill: none; stroke: #777777; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 552.547561 119.52648 
+L 559.747561 123.12648 
+L 552.547561 126.72648 
+z
+" clip-path="url(#p591e729e01)" style="fill: #777777; stroke: #777777; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 268.02 226.827 
+L 424.26 226.827 
+Q 429.84 226.827 429.84 222.8076 
+L 429.84 188.6427 
+Q 429.84 184.6233 424.26 184.6233 
+L 268.02 184.6233 
+Q 262.44 184.6233 262.44 188.6427 
+L 262.44 222.8076 
+Q 262.44 226.827 268.02 226.827 
+z
+" clip-path="url(#p591e729e01)" style="fill: #fff2e8; stroke: #ed7d31; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="67.14" y="112.2741" transform="rotate(-0 67.14 112.2741)">image x</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(36.491563 124.387766)">512×512×3</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(28.611875 136.3905)">786,432 values</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="206.64" y="112.2741" transform="rotate(-0 206.64 112.2741)">encode</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(160.05875 124.387766)">frozen / pretrained</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(175.0275 136.3905)">autoencoder</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="346.14" y="112.2741" transform="rotate(-0 346.14 112.2741)">latent zₜ</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(321.854062 124.387766)">64×64×4</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(310.793125 136.3905)">16,384 values</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="485.64" y="112.2741" transform="rotate(-0 485.64 112.2741)">decode</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(451.291562 124.387766)">after iterative</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(461.435312 136.3905)">denoising</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #ffffff" x="611.19" y="112.2741" transform="rotate(-0 611.19 112.2741)">image x̂</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(580.541562 124.388547)">512×512×3</text>
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; fill: #ffffff" transform="translate(582.330625 136.3905)">RGB output</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23395d" x="346.14" y="205.92612" transform="rotate(-0 346.14 205.92612)">48× fewer latent values in this example</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #23395d" x="346.14" y="43.9443" transform="rotate(-0 346.14 43.9443)">Denoise a compressed representation, not every RGB pixel</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #777777" x="346.14" y="64.0413" transform="rotate(-0 346.14 64.0413)">Compression ratio is not a claim of 48× less total compute</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p591e729e01">
+   <rect x="5.76" y="5.76" width="669.6" height="241.164"/>
+  </clipPath>
+ </defs>
+</svg>
